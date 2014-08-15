@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/principalCliente.Master" AutoEventWireup="true" CodeBehind="products.master.cs" Inherits="Farmacia.products" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="Contenido" runat="server">
+
+    <link rel="stylesheet" href="Estilos/estiloProductos.css" type="text/css" media="screen" />
+
+    <div id="lineaProduc">
+
+    &nbsp;&nbsp;&nbsp;&nbsp; Medicinas
+
+    </div>
+
+
+    <div id="productos">
+
+<div id="lateralProduc">
+
+    <%-- <ul>
+                        <li><a href="/portada.aspx">Portada</a> </li>
+                        <li><a href="/sobrenosotros.aspx">Sobre Nosotros</a></li>
+                        <li><a href="/productos.aspx">Productos</a></li>
+                        <li><a href="/noticias.aspx">Noticias</a></li>
+                        <li><a href="/contactos.aspx">Contactos</a></li>
+                        
+                    </ul>--%>
+
+&nbsp;&nbsp;
+    <br />
+&nbsp;&nbsp;
+    <asp:Button ID="Button3" runat="server" BackColor="White" BorderStyle="None" style="margin-left: 0px" Text="Analgesicos" Width="155px" OnClick="Button3_Click" />
+    <br />
+    <br />
+&nbsp;&nbsp;
+    <asp:Button ID="Button4" runat="server" BackColor="White" BorderStyle="None" style="margin-left: 0px" Text="Analgesicos" Width="155px" />
+    <br />
+    <br />
+&nbsp;&nbsp;
+    <asp:Button ID="Button5" runat="server" BackColor="White" BorderStyle="None" style="margin-left: 0px" Text="Analgesicos" Width="155px" />
+    <br />
+    <br />
+&nbsp;&nbsp;
+    <asp:Button ID="Button6" runat="server" BackColor="White" BorderStyle="None" style="margin-left: 0px" Text="Analgesicos" Width="155px" />
+    <br />
+    <br />
+&nbsp;&nbsp;
+    <asp:Button ID="Button7" runat="server" BackColor="White" BorderStyle="None" style="margin-left: 0px" Text="Analgesicos" Width="155px" />
+    <br />
+    <br />
+
+</div>
+
+<div id="principalProduc">
+
+    <asp:ContentPlaceHolder ID="Contenido" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+</div>
+        <br style="clear:both;"/>
+   
+
+</div>
+
+</asp:Content>

@@ -1,0 +1,63 @@
+c:\users\guest\documents\visual studio 2012\Projects\Farmacia\Farmacia\bin\Farmacia.dll
+c:\users\guest\documents\visual studio 2012\Projects\Farmacia\Farmacia\bin\Farmacia.pdb
+c:\users\guest\documents\visual studio 2012\Projects\Farmacia\Farmacia\bin\FlashControl.dll
+c:\users\guest\documents\visual studio 2012\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+c:\users\guest\documents\visual studio 2012\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.dll
+c:\users\guest\documents\visual studio 2012\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\Farmacia\Farmacia\bin\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\Farmacia\Farmacia\bin\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Soto\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia1\Farmacia\bin\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia1\Farmacia\bin\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia1\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Guest\Desktop\Farmacia1\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia1\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia\Farmacia\bin\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia\Farmacia\bin\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Guest\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Kevin Soto\Documents\Farmacia\Farmacia\bin\Farmacia.dll
+C:\Users\Kevin Soto\Documents\Farmacia\Farmacia\bin\Farmacia.pdb
+C:\Users\Kevin Soto\Documents\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Soto\Documents\Farmacia\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Kevin Soto\Documents\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+G:\Farmacia3\Farmacia\bin\Farmacia.dll
+G:\Farmacia3\Farmacia\bin\Farmacia.pdb
+G:\Farmacia3\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+G:\Farmacia3\Farmacia\obj\Debug\Farmacia.dll
+G:\Farmacia3\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia3\Farmacia\bin\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia3\Farmacia\bin\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia3\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Guest\Desktop\Farmacia3\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia3\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\proyecto\Farmacia3\Farmacia3\Farmacia\bin\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\proyecto\Farmacia3\Farmacia3\Farmacia\bin\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\proyecto\Farmacia3\Farmacia3\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Soto\Desktop\proyecto\Farmacia3\Farmacia3\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\proyecto\Farmacia3\Farmacia3\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.pdb
+C:\Users\Guest\Desktop\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Guest\Desktop\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Guest\Desktop\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Kevin Soto\Downloads\Farmacia5\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.dll
+C:\Users\Kevin Soto\Downloads\Farmacia5\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.pdb
+C:\Users\Kevin Soto\Downloads\Farmacia5\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Soto\Downloads\Farmacia5\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Kevin Soto\Downloads\Farmacia5\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\Farmacia5\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Soto\Desktop\Farmacia5\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\Farmacia5\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\Farmacia5\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\Farmacia5\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\Farmacia6\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Soto\Desktop\Farmacia6\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\Farmacia6\Farmacia5\Farmacia3\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\Farmacia6\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.dll
+C:\Users\Kevin Soto\Desktop\Farmacia6\Farmacia5\Farmacia3\Farmacia\bin\Farmacia.pdb
+C:\Users\Kevin Soto\Desktop\Farmacia6\Farmacia5\Farmacia3\Farmacia\bin\itextsharp.dll
+C:\Users\Kevin Soto\Desktop\Farmacia6\Farmacia5\Farmacia3\Farmacia\bin\itextsharp.xml

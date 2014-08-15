@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/principalAdm.Master" AutoEventWireup="true" CodeBehind="principalMantenimiento.master.cs" Inherits="Farmacia.principalMantenimiento" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="Contenido" runat="server">
+
+    <div id="contenedor">
+
+<div id="lateral">
+
+    <ul>
+                        <li><a href="/Mantenimiento/mantenimientoclient.aspx">Clientes</a></li>
+                        <li><a href="/Mantenimiento/mantenimientoproduct.aspx">Productos</a></li>
+                        
+                    </ul>
+
+</div>
+
+<div id="principal">
+    <asp:ContentPlaceHolder ID="ContenidoMan" runat="server">
+        
+        </asp:ContentPlaceHolder>
+</div>
+        <br style="clear:both;"/>
+   
+
+</div>
+
+        
+
+</asp:Content>
